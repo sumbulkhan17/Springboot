@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Feb 05 19:31:23 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-727f-4f06-0000012273d0 
+on database directory memory:D:\Capgemini Training\SpringBootWithExceptionHandling\b13d8511-298c-4215-be3b-f0449ed4b7ba with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@11028347 
+Loaded from file:/C:/Users/Sumbul/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=D:\Capgemini Training\SpringBootWithExceptionHandling
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
